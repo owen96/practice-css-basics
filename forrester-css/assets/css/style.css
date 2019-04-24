@@ -1,0 +1,33 @@
+header nav {
+  position: relative;
+  top: -30px;
+  left: 60%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+header img {
+  position: relative;
+  top: 10px;
+  left: 45%;
+}
+
+#middlediv {
+  position: relative;
+   min-height: 500px;
+margin-right: 20px;
+max-width: 700px;
+left: 20%;
+
+}
+
+#middlediv img {
+  float:left;
+  margin-right: 10px;
+}
+
+#middlediv p {
+  position: relative;
+  left: 30%;
+  max-width: 500px;
+}
